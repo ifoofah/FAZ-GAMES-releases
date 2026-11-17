@@ -4,6 +4,10 @@
     "kick:rgd-3": {
       "nickname": "RGD_3",
       "at": "2026-11-17"
+    },
+    "test:x": {
+      "nickname": "",
+      "at": "2026-11-17"
     }
   }
 }
