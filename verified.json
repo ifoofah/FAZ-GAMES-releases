@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "users": {}
+  "users": {
+    "kick:rgd-3": {
+      "nickname": "RGD_3",
+      "at": "2026-11-17"
+    }
+  }
 }
