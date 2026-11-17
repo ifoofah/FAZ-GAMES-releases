@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "users": {
+    "test:faz-check": {
+      "nickname": "اختبار",
+      "at": "2026-11-17"
+    }
+  }
+}
